@@ -1,0 +1,16 @@
+path: /content/drive/MyDrive/split_dataset
+
+train: /content/drive/MyDrive/split_dataset/split_dataset/train/images
+val: /content/drive/MyDrive/split_dataset/split_dataset/val/images
+test: /content/drive/MyDrive/split_dataset/split_dataset/test/images
+
+nc: 8
+names:
+  0: No Parking
+  1: Go Ahead
+  2: Turn Left
+  3: Turn Right
+  4: U turn
+  5: Give Way
+  6: Speed Limit 40
+  7: Speed Limit 60
